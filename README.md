@@ -2,10 +2,10 @@
 Using state-of-the-art Generative AI models, create, review, and manage legal documents. 
 # Project Name
 
-[![License](https://img.shields.io/github/license/yourusername/your-repo)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/yourusername/your-repo)](https://github.com/yourusername/your-repo/issues)
-[![Stars](https://img.shields.io/github/stars/yourusername/your-repo)](https://github.com/yourusername/your-repo/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/your-repo)](https://github.com/yourusername/your-repo/network/members)
+[![License](https://img.shields.io/github/license/sharkdomopensource/legal_document_maker)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/sharkdomopensource/legal_document_maker)](https://github.com/sharkdomopensource/legal_document_maker/issues)
+[![Stars](https://img.shields.io/github/stars/sharkdomopensource/legal_document_maker)](https://github.com/sharkdomopensource/legal_document_maker/stargazers)
+[![Forks](https://img.shields.io/github/forks/sharkdomopensource/legal_document_maker)](https://github.com/sharkdomopensource/legal_document_maker/network/members)
 
 ## Table of Contents
 
