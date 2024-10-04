@@ -42,9 +42,21 @@ To install and set up this project, follow these steps:
     ```sh
     pip install -r requirements.txt
     ```
+    
+## Contributing
+We welcome contributions! To contribute:
+- Fork the repository.
+- Create a new branch with your feature/bugfix.
+- Submit a pull request with a detailed description of the changes.
+
 
 # About Sharkdom
 Sharkdom is a platform designed to facilitate partnerships between startups. It offers automated solutions to help startups find ideal partners, create proposals, and sign MOUs. Key features include partner matchmaking, AI-generated proposals, and various types of partnerships like brand, sales, and co-marketing. Sharkdom aims to streamline the partnership process, reducing the time and effort required for startups to establish and manage partnerships.
+<div align="center">
+  
+<img src="full-logo.ead0e140.svg" alt="App Logo Image" width="750">
+</div>
+
 
 # License
 This project is licensed under the MIT License.
