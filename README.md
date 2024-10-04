@@ -1,6 +1,5 @@
 # Legal Document Maker - Open Source Project
 Using state-of-the-art Generative AI models, create, review, and manage legal documents. 
-# Project Name
 
 [![License](https://img.shields.io/github/license/sharkdomopensource/legal_document_maker)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/sharkdomopensource/legal_document_maker)](https://github.com/sharkdomopensource/legal_document_maker/issues)
@@ -12,22 +11,20 @@ Using state-of-the-art Generative AI models, create, review, and manage legal do
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ## Introduction
 
-Welcome to **Project Name**! This project aims to [briefly describe the purpose and scope of your project]. It is designed to [mention key functionalities or target users].
+Welcome to **Legal Document Maker**! This open-source project automates the creation of Non-disclosure Agreement (NDA) documents by utilizing various LLMs to generate legal content for each section of an NDA. The document is formatted using Python's python-docx library and saved in .docx format. This tool is ideal for users seeking to quickly draft comprehensive NDAs with minimal manual input.
 
 ## Features
+- Automated NDA generation: Automatically generates and organizes the content for each section of a typical NDA.
+- Dynamic content generation: Utilizes various LLMs to dynamically create relevant text for each section, based on industry standards.
+- Customizable: Modify or extend any section of the NDA to suit your specific needs.
+- Formatted output: Generates a .docx file with proper headings and formatting, ready for review or signing.
 
-- **Feature 1**: Description of feature 1.
-- **Feature 2**: Description of feature 2.
-- **Feature 3**: Description of feature 3.
-- **Feature 4**: Description of feature 4.
-- **Feature 5**: Description of feature 5.
 
 ## Installation
 
@@ -35,35 +32,17 @@ To install and set up this project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/sharkdomopensource/partnership_document_maker
     ```
 2. Navigate to the project directory:
     ```sh
-    cd your-repo
+    cd partnership_document_maker
     ```
 3. Install the dependencies:
-    ```sh
-    npm install
-    ```
-   or
     ```sh
     pip install -r requirements.txt
     ```
 
-## Usage
-
-To use this project, follow these instructions:
-
-1. **Step 1**: [Explain the first step].
-2. **Step 2**: [Explain the second step].
-3. **Step 3**: [Explain the third step].
-4. **Step 4**: [Explain the fourth step].
-
-Example:
-```sh
-# Example command to start the project
-npm start
-```
 # About Sharkdom
 Sharkdom is a platform designed to facilitate partnerships between startups. It offers automated solutions to help startups find ideal partners, create proposals, and sign MOUs. Key features include partner matchmaking, AI-generated proposals, and various types of partnerships like brand, sales, and co-marketing. Sharkdom aims to streamline the partnership process, reducing the time and effort required for startups to establish and manage partnerships.
 
